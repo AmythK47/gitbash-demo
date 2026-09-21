@@ -2,6 +2,7 @@ public class LoginTest {
 
     public void login() {
         System.out.println("Login with admin account");
+	System.out.println("merge abort conflict");
     }
 
     public void logout() {
