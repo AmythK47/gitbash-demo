@@ -2,6 +2,7 @@ public class LoginTest {
 
     public void login() {
         System.out.println("Login with admin account");
+	System.out.println("Login test mdoified by Developer A");
     }
 
     public void logout() {
