@@ -1,7 +1,7 @@
 public class LoginTest {
 
     public void login() {
-        System.out.println("Login with admin credentials");
+        System.out.println("Login with admin account");
     }
 
     public void logout() {
