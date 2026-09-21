@@ -2,11 +2,8 @@ public class LoginTest {
 
     public void login() {
         System.out.println("Login with admin account");
-<<<<<<< HEAD
-	System.out.println("Login test mdoified by Developer A");
-=======
+	System.out.println("Login test modified by Developer A");
 	System.out.println("merge abort conflict");
->>>>>>> merge-conflict-a
     }
 
     public void logout() {
